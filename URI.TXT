@@ -208,8 +208,8 @@ ms-settings:surfacehub-welcome
 
 
 
-
-
+More Info 
+https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
 
 
 
